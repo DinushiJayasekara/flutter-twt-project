@@ -1,3 +1,7 @@
+### Tech With Tim Flutter Project
+
+- Completed upto #6 (List View)
+
 # hello_world
 
 A new Flutter project.
