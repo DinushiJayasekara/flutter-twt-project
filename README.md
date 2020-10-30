@@ -1,12 +1,12 @@
-### Tech With Tim Flutter Project
+# Tech With Tim Flutter Project
 
 - Completed upto #6 (List View)
 
-# hello_world
+## hello_world
 
 A new Flutter project.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
